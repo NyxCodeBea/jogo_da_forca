@@ -36,4 +36,23 @@ Você precisa ter o **Python** instalado em sua máquina.
 
 1. Clone este repositório:
 ```bash
-git clone [https://github.com/NyxCodeBea/jogo_da_forca/]
+git clone [https://github.com/NyxCodeBea/jogo_da_forca.git/] (https://github.com/NyxCodeBea/jogo_da_forca.git/)
+
+
+```
+
+2. Acesse a pasta do projeto e execute o arquivo:
+
+```bash
+python nome_do_arquivo.py
+
+```
+
+## 🎮 Como Jogar
+
+1. Ao iniciar, digite **I** para entrar no menu principal.
+2. Escolha a **Opção 1** e digite um número de 1 a 5 para carregar uma palavra secreta.
+3. Escolha a **Opção 2** para começar a adivinhar.
+4. Digite uma letra por vez. Se errar, perde uma vida. Se as vidas chegarem a 0, é Game Over!
+
+---
