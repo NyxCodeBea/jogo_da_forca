@@ -36,7 +36,7 @@ Você precisa ter o **Python** instalado em sua máquina.
 
 1. Clone este repositório:
 ```bash
-git clone [https://github.com/NyxCodeBea/jogo_da_forca.git/] (https://github.com/NyxCodeBea/jogo_da_forca.git/)
+git clone https://github.com/NyxCodeBea/jogo_da_forca.git/
 
 
 ```
