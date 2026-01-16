@@ -59,7 +59,8 @@ while True:
                     else: 
                         palavra_secreta,letras_descobertas = obter_palavra_secreta()
                         
-                elif jogar == "2": # --- 4. Jogo da Forca ---
+                # --- 4. Jogo da Forca ---   
+                elif jogar == "2": 
                     if palavra_secreta is None:
                         print("Por favor, escolha a palavra secreta primeiro (opção 1).")
                     else:
